@@ -1,0 +1,8 @@
+name = input("Enter your name : ")
+age = input("Enter your age : ")
+Dept = input("Enter your Department : ")
+
+print ("Your name is " + name + ", you are " + age + " years old." )
+print ("You belong to the " + Dept + " Department")
+
+
